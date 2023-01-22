@@ -8,3 +8,6 @@ in carrying out this task carried out by a team consisting of:
 - Muhammad Qais Al Farisi
 - Fakhira Shafa Maheswari
 - Arvyn Rezky Fahrezy
+
+# How to Run
+You can use Visual Studio Code and download all extension for java (extension-pack-Java)
